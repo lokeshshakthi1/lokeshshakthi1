@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on: Enterprise .NET applications, SQL Server, and production support.<br>I'm looking to collaborate on: .NET, Azure, DevOps, and AI-driven automation projects.<br>I'm looking for help with: Advanced cloud architecture, DevOps, and AI integration.<br>I'm currently learning: Azure, Terraform, DevOps, and Generative AI.<br>Ask me about: C#, .NET, SQL Server, APIs, Azure, and production troubleshooting.<br>Fun fact: I enjoy automating repetitive tasks and turning complex problems into simple solutions.
+I'm currently working in Accenture on: Enterprise .NET applications, SQL Server, and production support.<br>I'm looking to collaborate on: .NET, Azure, DevOps, and AI-driven automation projects.<br>I'm looking for help with: Advanced cloud architecture, DevOps, and AI integration.<br>I'm currently learning: Azure, Terraform, DevOps, and Generative AI.<br>Ask me about: C#, .NET, SQL Server, APIs, Azure, and production troubleshooting.<br>Fun fact: I enjoy automating repetitive tasks and turning complex problems into simple solutions.
 
 
 ## 🌐 Socials:
